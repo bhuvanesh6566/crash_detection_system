@@ -1,0 +1,5 @@
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+requests>=2.31.0
+pyserial>=3.5
+pynmea2>=1.18.0
