@@ -3,15 +3,12 @@
 A computer-vision project for detecting road-accident/crash events from visual input.
 
 ## Overview
-The repository contains the crash-detection implementation and supporting assets/configuration used by the project.
+Explores visual crash detection and real-time road-safety monitoring workflows.
 
-## Getting Started
-Inspect the project files and install the dependencies specified by the repository before running the application.
-
-## Project Goals
+## Goals
 - Detect crash-related visual events
 - Process camera/video input
-- Provide a foundation for real-time road-safety monitoring
+- Support real-time safety monitoring
 
 ## Status
-This is a project/research implementation and should be validated thoroughly before any real-world safety-critical use.
+Educational/research implementation. Validate thoroughly before any safety-critical deployment.
